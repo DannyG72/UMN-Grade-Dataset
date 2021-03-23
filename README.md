@@ -1,4 +1,4 @@
-#THIS IS NOT ON GOPHERGRADES. I am NOT affiliated with GopherGrades. I just like data.
+# THIS IS NOT ON GOPHERGRADES. I am NOT affiliated with GopherGrades. I just like data.
 
 To see this data in action, visit https://GopherGrades.com/#search
 
