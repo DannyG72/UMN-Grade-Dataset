@@ -1,5 +1,3 @@
-# THIS IS NOT ON GOPHERGRADES. I am NOT affiliated with GopherGrades. I just like data.
-
 To see this data in action, visit https://GopherGrades.com/#search
 
 This is the University of Minnesota Grade data for the last 10 academic semesters (including summer courses). The range is Summer of 2017-Fall of 2020. To obtain this data I submitted a FOIA request to the University of Minnesota.
